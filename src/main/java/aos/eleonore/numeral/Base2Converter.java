@@ -1,4 +1,4 @@
-package aos.eleonore.code;
+package aos.eleonore.numeral;
 
 public class Base2Converter {
 
