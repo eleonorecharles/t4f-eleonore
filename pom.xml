@@ -26,6 +26,12 @@
   </parent>
   <artifactId>t4f-eleonore</artifactId>
   <name>T4F Eleonore</name>
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+    </dependency>
+  </dependencies>
   <repositories>
     <repository>
       <id>aos.public-snapshot</id>
