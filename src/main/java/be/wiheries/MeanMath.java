@@ -1,6 +1,6 @@
 package be.wiheries;
 
-import aos.console.AosConsole;
+import io.aos.console.AosConsole;
 
 public class MeanMath {
 

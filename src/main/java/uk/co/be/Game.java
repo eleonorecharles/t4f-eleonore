@@ -1,6 +1,6 @@
 package uk.co.be;
 
-import aos.console.AosConsole;
+import io.aos.console.AosConsole;
 
 public class Game {
 

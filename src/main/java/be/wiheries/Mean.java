@@ -2,7 +2,7 @@ package be.wiheries;
 
 import java.util.Random;
 
-import aos.console.AosConsole;
+import io.aos.console.AosConsole;
 
 public class Mean {
 

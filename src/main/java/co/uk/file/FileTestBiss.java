@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
-import aos.console.AosConsole;
+import io.aos.console.AosConsole;
 
 public class FileTestBiss {
 
