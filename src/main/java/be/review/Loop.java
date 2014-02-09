@@ -1,4 +1,4 @@
-package uk.review;
+package be.review;
 
 import io.aos.console.AosConsole;
 

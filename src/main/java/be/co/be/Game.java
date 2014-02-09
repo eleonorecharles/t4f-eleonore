@@ -1,4 +1,4 @@
-package uk.co.be;
+package be.co.be;
 
 import io.aos.console.AosConsole;
 

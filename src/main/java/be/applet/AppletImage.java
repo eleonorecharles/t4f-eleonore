@@ -1,4 +1,4 @@
-package uk.applet;
+package be.applet;
 
 import java.applet.Applet;
 import java.awt.Graphics;
