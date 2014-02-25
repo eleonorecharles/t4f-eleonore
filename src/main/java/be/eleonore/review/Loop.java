@@ -1,4 +1,4 @@
-package be.review;
+package be.eleonore.review;
 
 import io.aos.console.AosConsole;
 

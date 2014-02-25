@@ -1,4 +1,4 @@
-package be.wiheries;
+package be.eleonore.wiheries;
 
 public class Refresh {
 

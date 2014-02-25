@@ -1,4 +1,4 @@
-package be.wiheries;
+package be.eleonore.wiheries;
 
 import java.awt.Color;
 import java.awt.Dimension;

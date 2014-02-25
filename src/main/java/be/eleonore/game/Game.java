@@ -1,4 +1,4 @@
-package be.co.be;
+package be.eleonore.game;
 
 import io.aos.console.AosConsole;
 

@@ -1,4 +1,4 @@
-package be;
+package be.eleonore.param;
 import org.junit.Test;
 
 

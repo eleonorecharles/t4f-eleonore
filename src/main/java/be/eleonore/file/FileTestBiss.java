@@ -1,4 +1,4 @@
-package be.file;
+package be.eleonore.file;
 
 import java.io.File;
 import java.io.FileWriter;
